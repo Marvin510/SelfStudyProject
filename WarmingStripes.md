@@ -7,14 +7,12 @@ Warming Stripes produced in Python
 
 ![Pic](https://github.com/Marvin510/SelfStudyProject/blob/master/Warming%20Stripes.png)
 
-
-Original Warming Stripes 
+Original Warming Stripes (Hawkins, 2018)
 
 ![originalpic](http://www.climate-lab-book.ac.uk/files/2018/05/globalcore.png)
 
 
-### Citation
-
-
+### References
+- (Hawkins, 2018). Retrieved from http://www.climate-lab-book.ac.uk/2018/warming-stripes/
 -
 -
