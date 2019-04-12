@@ -29,9 +29,9 @@ A non effective visualization will be complex, filled with noise and non informa
 
 | Effective     | Non-Effective | Points  |
 | ------------- |:-------------:| -----:|
-| Informative   | Uninportant   |  |
-| Captivating   | Boring        |   $12 |
-| Simple        | Complex       |    $1 |
+| Informative   | Uninportant   |    |
+| Captivating   | Boring        |    |
+| Simple        | Complex       |    |
 and.....
 
 citation...
@@ -55,11 +55,11 @@ Therefore effective visualization takes into consideration the following:
 ![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%202.jpg)
 
 -Picture 3
-
 ![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Picture%203.jpg)
 
 -Picture 4
 ![Picture4](https://19january2017snapshot.epa.gov/sites/production/files/2016-07/models-observed-human-natural.png)
+
 
 -Picuture 5
 
@@ -70,7 +70,6 @@ Therefore effective visualization takes into consideration the following:
 
 ### References
 - Pittenturf, Chris. 2018. “What Is Data Visualization and Why Is It Important?” https://data-visualization.cioreview.com/cxoinsight/what-is-data-visualization-and-why-is-it-important-nid-11806-cid-163.html.
--
 -(n.d.). Retrieved from http://www.climate-lab-book.ac.uk/2018/warming-stripes/
 
 
