@@ -8,7 +8,7 @@
 
 ### Evaluation Framework
 Effective visualization is an image that will quickly convey an informative and evoking action message. The reader has to be
-captivated immediately and the message has to be unambigous 
+captivated immediately and the message has to be unambigous (Pittenturf 2018).
 
 A non effective visualization will be complex, filled with noise and non informative.
 
@@ -62,7 +62,7 @@ Therefore effective visualization takes into consideration the following:
 
 
 ### References
--
+- Pittenturf, Chris. 2018. “What Is Data Visualization and Why Is It Important?” https://data-visualization.cioreview.com/cxoinsight/what-is-data-visualization-and-why-is-it-important-nid-11806-cid-163.html.
 -
 
 
