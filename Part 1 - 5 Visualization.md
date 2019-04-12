@@ -7,8 +7,31 @@
 5. Write a conclusion
 
 ### Evaluation Framework
-Effective visualization is...
+Effective visualization is an image that will quickly convey an informative and evoking action message. The reader has to be
+captivated immediately and the message has to be unambigous 
 
+A non effective visualization will be complex, filled with noise and non informative.
+
+
+| Effective     | Non-Effective |
+| ------------- |:-------------:|
+| +1            |   -1          | 
+
+
+
+| Effective     | Non-Effective | Points|
+| ------------- |:-------------:| -----:|
+| Informative   | Uninportant   |       |
+| Captivating   | Boring        |       |
+| Simple        | Complex       |       |
+
+
+
+| Effective     | Non-Effective | Points  |
+| ------------- |:-------------:| -----:|
+| Informative   | Uninportant   |  |
+| Captivating   | Boring        |   $12 |
+| Simple        | Complex       |    $1 |
 and.....
 
 citation...
