@@ -51,7 +51,7 @@ Therefore effective visualization takes into consideration the following:
 
 ![Picture1](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/pic%201.jpeg)
 
--Picture 2 
+-Picture 2 (n.d)
 ![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%202.jpg)
 
 -Picture 3
@@ -71,7 +71,7 @@ Therefore effective visualization takes into consideration the following:
 ### References
 - Pittenturf, Chris. 2018. “What Is Data Visualization and Why Is It Important?” https://data-visualization.cioreview.com/cxoinsight/what-is-data-visualization-and-why-is-it-important-nid-11806-cid-163.html.
 -
-
+-(n.d.). Retrieved from http://www.climate-lab-book.ac.uk/2018/warming-stripes/
 
 
 
