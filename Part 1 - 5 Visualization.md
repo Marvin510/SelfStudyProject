@@ -26,19 +26,6 @@ A non effective visualization will be complex, filled with noise and non informa
 | Simple        | Complex       |       |
 
 
-
-| Criteria      | Points|
-| ------------- | -----:|
-| Informative   |       |
-| Captivating   |       |      
-| Simple        |       |    
-| Complex       |       |
-| Boring        |       |
-| Unimportant   |       |
-
-
-citation...
-
 Therefore effective visualization takes into consideration the following:
 - 1
 - 2 
