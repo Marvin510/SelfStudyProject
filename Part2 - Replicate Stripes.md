@@ -14,5 +14,4 @@ Original Warming Stripes (Hawkins, 2018)
 
 ### References
 - (Hawkins, 2018). Retrieved from http://www.climate-lab-book.ac.uk/2018/warming-stripes/
--
--
+
