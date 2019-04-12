@@ -47,15 +47,19 @@ Therefore effective visualization takes into consideration the following:
 
 ### Five Visualizations - Assessment
 
--1
+-Picture 1
+
+![Picture1](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/pic%201.jpeg)
 
 -2
 
 -3
 
--4
+-Picture 4
+![Picture4](https://19january2017snapshot.epa.gov/sites/production/files/2016-07/models-observed-human-natural.png)
 
--5
+-Picuture 5
+![Picture5](
 
 ### Conclusion
 
