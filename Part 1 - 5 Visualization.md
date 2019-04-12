@@ -21,18 +21,21 @@ A non effective visualization will be complex, filled with noise and non informa
 
 | Effective     | Non-Effective | Points|
 | ------------- |:-------------:| -----:|
-| Informative   | Uninportant   |       |
+| Informative   | Unimportant   |       |
 | Captivating   | Boring        |       |
 | Simple        | Complex       |       |
 
 
 
-| Effective     | Non-Effective | Points  |
-| ------------- |:-------------:| -----:|
-| Informative   | Uninportant   |    |
-| Captivating   | Boring        |    |
-| Simple        | Complex       |    |
-and.....
+| Criteria      | Points|
+| ------------- | -----:|
+| Informative   |       |
+| Captivating   |       |      
+| Simple        |       |    
+| Complex       |       |
+| Boring        |       |
+| Unimportant   |       |
+
 
 citation...
 
@@ -51,18 +54,64 @@ Therefore effective visualization takes into consideration the following:
 
 ![Picture1](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/pic%201.jpeg)
 
+| Criteria      | Points|
+| ------------- | -----:|
+| Informative   |   1   |
+| Captivating   |   1   |      
+| Simple        |   1   |    
+| Complex       |   0   |
+| Boring        |   0   |
+| Unimportant   |   0   |
+
 -Picture 2 (n.d)
 ![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%202.jpg)
+
+
+| Criteria      | Points|
+| ------------- | -----:|
+| Informative   |   1   |
+| Captivating   |   0   |      
+| Simple        |   1   |    
+| Complex       |   0   |
+| Boring        |   0   |
+| Unimportant   |  -1   |
+
 
 -Picture 3
 ![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Picture%203.jpg)
 
+| Criteria      | Points|
+| ------------- | -----:|
+| Informative   |   0   |
+| Captivating   |   0   |      
+| Simple        |  -1   |    
+| Complex       |  -1   |
+| Boring        |  -1   |
+| Unimportant   |  -1   |
+
+
 -Picture 4
 ![Picture4](https://19january2017snapshot.epa.gov/sites/production/files/2016-07/models-observed-human-natural.png)
 
+| Criteria      | Points|
+| ------------- | -----:|
+| Informative   |       |
+| Captivating   |       |      
+| Simple        |       |    
+| Complex       |       |
+| Boring        |       |
+| Unimportant   |       |
 
 -Picuture 5
 
+| Criteria      | Points|
+| ------------- | -----:|
+| Informative   |       |
+| Captivating   |       |      
+| Simple        |       |    
+| Complex       |       |
+| Boring        |       |
+| Unimportant   |       |
 
 ### Conclusion
 
