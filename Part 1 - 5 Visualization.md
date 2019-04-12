@@ -51,10 +51,11 @@ Therefore effective visualization takes into consideration the following:
 
 ![Picture1](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/pic%201.jpeg)
 
--2
+-Picture 2 
+![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%203.jpg)
 
 -Picture 3
-![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%203.jpg)
+![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%205.jpg)
 
 -Picture 4
 ![Picture4](https://19january2017snapshot.epa.gov/sites/production/files/2016-07/models-observed-human-natural.png)
