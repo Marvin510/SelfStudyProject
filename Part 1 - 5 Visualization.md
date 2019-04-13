@@ -26,7 +26,9 @@ Therefore effective visualization takes into consideration the following:
 - 1 Informative: Needs to convey an important message
 - 2 Captivating: Must catch the reader's attention 
 - 3 Simple: Visualization can not contain too much noise
-On the other hand Non effective visualizations will contain the following:
+
+-On the other hand Non-effective visualizations will contain the following:
+
 - 1 Unimportant info: Visualization will display redundant or non related information
 - 2 Boring: Does not captivate the reader or fails to evoke 
 - 3 Complex: Image that fails to convey information due over saturation
