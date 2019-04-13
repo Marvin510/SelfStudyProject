@@ -10,10 +10,13 @@
 
 Effective visualization is an image that will quickly convey an informative and evoking action message. The reader has to be
 captivated immediately and the message has to be unambigous (Pittenturf 2018).
-It also has to be fitting, useful and its appearance has to have harmony (McCandless, 2018)
-Less is more (McCandless, D. (2018, July 17) visualizations that tell the whole story with non complex images are more effective
 
-A non effective visualization will be complex, filled with noise and non informative. (McCandless, 2018)
+It also has to be fitting, useful and its appearance has to have harmony (McCandless, 2018).
+
+Less is more. Visualizations that tell the whole story with non complex images are more effective (McCandless, D. (2018, July 17)
+
+A non effective visualization will be complex, filled with noise and non informative images (McCandless, 2018).
+
 
 I will assign each image a +1 if effective and -1 if non-effective.
 
@@ -22,18 +25,17 @@ I will assign each image a +1 if effective and -1 if non-effective.
 | +1            |   -1          | 
 
 
-
-
 ### 2 - Evaluation & Framework
 Therefore effective visualization takes into consideration the following:
-- 1 Informative: Needs to convey an important message
+
+- 1 Informative: Needs to quickly convey an important message
 - 2 Captivating: Must catch the reader's attention 
-- 3 Simple: Visualization can not contain too much noise
+- 3 Simple: Visualization has to fit and can not contain too much noise
 
 -On the other hand Non-effective visualizations will contain the following:
 
 - 1 Unimportant info: Visualization will display redundant or non related information
-- 2 Boring: Does not captivate the reader or fails to evoke 
+- 2 Boring: Does not captivate the reader or fails to evoke action
 - 3 Complex: Image that fails to convey information due over saturation
 
 | Effective     | Non-Effective | Points|
@@ -58,9 +60,9 @@ It is very easy to interpret, the comparison of years and x and y axis labels ma
 | Informative   |   1   |
 | Captivating   |   1   |      
 | Simple        |   1   |    
-| Complex       |   0   |
-| Boring        |   0   |
 | Unimportant   |   0   |
+| Boring        |   0   |
+| Complex       |   0   |
 
 -Picture 2 (n.d)
 
@@ -73,9 +75,9 @@ The image is simple to read and its message would be informative to the audience
 | Informative   |   1   |
 | Captivating   |   0   |      
 | Simple        |   1   |    
-| Complex       |   0   |
+| Unimportant   |   -1  |
 | Boring        |   0   |
-| Unimportant   |  -1   |
+| Complex       |   0   |
 
 
 -Picture 3
@@ -90,9 +92,9 @@ This image is not informative, captivating or simple to understand. On the other
 | Informative   |   0   |
 | Captivating   |   0   |      
 | Simple        |   0   |    
-| Complex       |  -1   |
-| Boring        |  -1   |
 | Unimportant   |  -1   |
+| Boring        |  -1   |
+| Complex       |  -1   |
 
 
 -Picture 4
@@ -103,9 +105,9 @@ This image is not informative, captivating or simple to understand. On the other
 | Informative   |       |
 | Captivating   |       |      
 | Simple        |       |    
-| Complex       |       |
-| Boring        |       |
 | Unimportant   |       |
+| Boring        |       |
+| Complex       |       |
 
 -Picuture 5
 
@@ -114,9 +116,9 @@ This image is not informative, captivating or simple to understand. On the other
 | Informative   |       |
 | Captivating   |       |      
 | Simple        |       |    
-| Complex       |       |
-| Boring        |       |
 | Unimportant   |       |
+| Boring        |       |
+| Complex       |       |
 
 ### Conclusion
 
