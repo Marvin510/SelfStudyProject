@@ -1,4 +1,4 @@
-# Self Study Project 
+# Self Study Project - Marvin Miranda Olmedo
 
 1. Do a literature search on what is an effective visualization
 2. Select evaluation criteria and put them into a framework
@@ -8,8 +8,9 @@
 
 ### 1 - What is effective Visualization
 
-Effective visualization is an image that will quickly convey an informative and evoking action message. The reader has to be
-captivated immediately and the message has to be unambigous (Pittenturf 2018).
+Effective visualization is an image that will quickly convey an informative and evoking action message.
+
+The reader has to be captivated immediately and the message has to be unambigous (Pittenturf 2018).
 
 It also has to be fitting, useful and its appearance has to have harmony (McCandless, 2018).
 
@@ -43,15 +44,22 @@ Therefore effective visualization takes into consideration the following:
 | Informative   | Unimportant   |       |
 | Captivating   | Boring        |       |
 | Simple        | Complex       |       |
-
+    
 
 
 ### 3 & 4 - Five Visualizations - Assessment
 
 -Picture 1
 
-This image is captivating. It shows a significant change of current levels of carbond dioxide compare to 400,000 years ago. 
-It is very easy to interpret, the comparison of years and x and y axis labels make it super easy to read. The graph is simple without too much noise and details it stills conveys the message that carbon dioxide is proof of climate change.
+This image is captivating. It shows a significant change of current levels of carbond dioxide compare to 400,000 years ago.
+
+It is very easy to interpret.
+
+The comparison of today to years ago is mindblowing and informative.
+
+X and Y axis labels make it super easy to read.Ths fits the image and gives the story harmony.
+
+The graph is simple and without too much noise and details, it stills conveys the message that climate change is caused by human activity.
 
 ![Picture1](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/pic%201.jpeg)
 
@@ -66,7 +74,11 @@ It is very easy to interpret, the comparison of years and x and y axis labels ma
 
 -Picture 2 (n.d)
 
-The image is simple to read and its message would be informative to the audience. The message is clear that human's activity casue  climage change. However, it is not captivating. IT fails to evoke emontions or a sense of urgency. It would be an informative but unimportant visualization for someone trying to evoke change.
+The image is simple and to the informative point.
+
+It fails to captivate or grab the reader's attention.
+
+Image fails to evoke emontions or a sense of urgency. It is informative but unimportant visualization for someone trying to evoke change.
 
 ![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%202.jpg)
 
@@ -86,7 +98,14 @@ adfadsfadsf
 
 ![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Picture%203.jpg)
 
-This image is not informative, captivating or simple to understand. On the other hand, it is complex as it would require background knowledge to unders the effect of each variable on the image. It is just plain data that would cause boredom on the average reader. The visualization tries to convey the effect of humans to climate change but fails to do so and therefore the visuals are unimportant
+This image is not informative, captivating or simple to understand. 
+
+it is complex as it would require background knowledge to unders the effect of each variable on the image. 
+
+It is just plain data that would cause boredom on the average reader. 
+
+The visualization tries to convey the idea that human's behavior leads to factors impacting climage change. However, the visualization falls short of giving that impresion quickly and therefore is too complex and innefective.
+
 | Criteria      | Points|
 | ------------- | -----:|
 | Informative   |   0   |
