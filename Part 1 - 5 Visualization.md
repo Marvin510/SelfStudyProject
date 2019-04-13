@@ -45,6 +45,9 @@ Therefore effective visualization takes into consideration the following:
 
 -Picture 1
 
+This image is captivating. It shows a significant change of current levels of carbond dioxide compare to 400,000 years ago. 
+It is very easy to interpret, the comparison of years and x and y axis labels make it super easy to read. The graph is simple without too much noise and details it stills conveys the message that carbon dioxide is proof of climate change.
+
 ![Picture1](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/pic%201.jpeg)
 
 | Criteria      | Points|
@@ -57,8 +60,10 @@ Therefore effective visualization takes into consideration the following:
 | Unimportant   |   0   |
 
 -Picture 2 (n.d)
-![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%202.jpg)
 
+The image is simple to read and its message would be informative to the audience. The message is clear that human's activity casue  climage change. However, it is not captivating. IT fails to evoke emontions or a sense of urgency. It would be an informative but unimportant visualization for someone trying to evoke change.
+
+![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%202.jpg)
 
 | Criteria      | Points|
 | ------------- | -----:|
@@ -71,13 +76,17 @@ Therefore effective visualization takes into consideration the following:
 
 
 -Picture 3
+
+adfadsfadsf
+
 ![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Picture%203.jpg)
 
+This image is not informative, captivating or simple to understand. On the other hand, it is complex as it would require background knowledge to unders the effect of each variable on the image. It is just plain data that would cause boredom on the average reader. The visualization tries to convey the effect of humans to climate change but fails to do so and therefore the visuals are unimportant
 | Criteria      | Points|
 | ------------- | -----:|
 | Informative   |   0   |
 | Captivating   |   0   |      
-| Simple        |  -1   |    
+| Simple        |   0   |    
 | Complex       |  -1   |
 | Boring        |  -1   |
 | Unimportant   |  -1   |
