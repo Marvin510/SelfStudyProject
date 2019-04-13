@@ -6,7 +6,7 @@
 4. Use your criteria to evaluate the visualizations
 5. Write a conclusion
 
-### 1 - What is effective Visualization
+## 1 - What is effective Visualization
 
 Effective visualization is an image that will quickly convey an informative and evoking action message.
 
@@ -25,7 +25,8 @@ I will assign each image a +1 if effective and -1 if non-effective.
 | +1            |   -1          | 
 
 
-### 2 - Evaluation & Framework
+## 2 - Evaluation & Framework
+
 Therefore effective visualization takes into consideration the following:
 
 - 1 Informative: Needs to quickly convey an important message
@@ -46,7 +47,7 @@ Therefore effective visualization takes into consideration the following:
     
 
 
-### 3 & 4 - Five Visualizations - Assessment
+## 3 & 4 - Five Visualizations - Assessment
 
 ### Picture 1 ("Climate change evidence: How do we know?", 2019)
 
@@ -100,7 +101,7 @@ adfadsfadsf
 
 This image is not informative, captivating or simple to understand. 
 
-it is complex as it would require background knowledge to unders the effect of each variable on the image. 
+it is complex as it would require background knowledge to understand the effect of each variable on the image. 
 
 It is just plain data that would cause boredom on the average reader. 
 
@@ -116,19 +117,30 @@ The visualization tries to convey the idea that human's behavior leads to factor
 | Complex       |  -1   |
 
 
--Picture 4
+### Picture 4 ("Causes of Climate Change", 2016)
+
+Picture has an ambigious message. 
+
+Y axis can be open to many interpretations thus not arousing action from the reader
+
+Does not captivate attention right away. It requires more of the reader to understand colors and proportions.
+
+It is painpul to look at and thus boring.
+
+
 ![Picture4](https://19january2017snapshot.epa.gov/sites/production/files/2016-07/models-observed-human-natural.png)
 
 | Criteria      | Points|
 | ------------- | -----:|
-| Informative   |       |
+| Informative   |   1   |
 | Captivating   |       |      
-| Simple        |       |    
+| Simple        |   -1  |    
 | Unimportant   |       |
-| Boring        |       |
+| Boring        |   -1  |
 | Complex       |       |
 
 -Picuture 5
+
 
 | Criteria      | Points|
 | ------------- | -----:|
@@ -159,7 +171,7 @@ The visualization tries to convey the idea that human's behavior leads to factor
 
 - Are human activities causing climate change? (n.d.). Retrieved from https://www.science.org.au/learning/general-audience/science-booklets-0/science-climate-change/3-are-human-activities-causing
 
--
+- Causes of Climate Change. (2016, December 27). Retrieved April 13, 2019, from https://19january2017snapshot.epa.gov/climate-change-science/causes-climate-change_.html
 
 -
 
