@@ -7,10 +7,13 @@
 5. Write a conclusion
 
 ### 1 - What is effective Visualization
+
 Effective visualization is an image that will quickly convey an informative and evoking action message. The reader has to be
 captivated immediately and the message has to be unambigous (Pittenturf 2018).
+It also has to be fitting, useful and its appearance has to have harmony (McCandless, 2018)
+Less is more (McCandless, D. (2018, July 17) visualizations that tell the whole story with non complex images are more effective
 
-A non effective visualization will be complex, filled with noise and non informative.
+A non effective visualization will be complex, filled with noise and non informative. (McCandless, 2018)
 
 I will assign each image a +1 if effective and -1 if non-effective.
 
@@ -120,8 +123,13 @@ This image is not informative, captivating or simple to understand. On the other
 
 
 ### References
-- Pittenturf, Chris. 2018. “What Is Data Visualization and Why Is It Important?” https://data-visualization.cioreview.com/cxoinsight/what-is-data-visualization-and-why-is-it-important-nid-11806-cid-163.html.
+- Pittenturf, Chris. 2018. “What Is Data Visualization and Why Is It Important?” https://data-visualization.cioreview.com/cxoinsight/what-is-data-visualization-and-why-is-it-important-nid-11806-cid-163.html
+
 -(n.d.). Retrieved from http://www.climate-lab-book.ac.uk/2018/warming-stripes/
+
+- McCandless, D. (2018, July 17). What Makes A Good Data Visualization? Retrieved from https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
+
+- McCandless, D. (2018, July 17). What Makes A Good Data Visualization? Retrieved from https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
 
 
 
