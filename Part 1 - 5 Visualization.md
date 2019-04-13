@@ -6,18 +6,30 @@
 4. Use your criteria to evaluate the visualizations
 5. Write a conclusion
 
-### Evaluation Framework
+### 1 - What is effective Visualization
 Effective visualization is an image that will quickly convey an informative and evoking action message. The reader has to be
 captivated immediately and the message has to be unambigous (Pittenturf 2018).
 
 A non effective visualization will be complex, filled with noise and non informative.
 
+I will assign each image a +1 if effective and -1 if non-effective.
 
 | Effective     | Non-Effective |
 | ------------- |:-------------:|
 | +1            |   -1          | 
 
 
+
+
+### 2 - Evaluation & Framework
+Therefore effective visualization takes into consideration the following:
+- 1 Informative: Needs to convey an important message
+- 2 Captivating: Must catch the reader's attention 
+- 3 Simple: Visualization can not contain too much noise
+On the other hand Non effective visualizations will contain the following:
+- 1 Unimportant info: Visualization will display redundant or non related information
+- 2 Boring: Does not captivate the reader or fails to evoke 
+- 3 Complex: Image that fails to convey information due over saturation
 
 | Effective     | Non-Effective | Points|
 | ------------- |:-------------:| -----:|
@@ -26,16 +38,8 @@ A non effective visualization will be complex, filled with noise and non informa
 | Simple        | Complex       |       |
 
 
-Therefore effective visualization takes into consideration the following:
-- 1
-- 2 
-- etc
 
-### Framework
-
-
-
-### Five Visualizations - Assessment
+### 3 & 4 - Five Visualizations - Assessment
 
 -Picture 1
 
