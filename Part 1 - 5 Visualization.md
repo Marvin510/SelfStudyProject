@@ -48,7 +48,7 @@ Therefore effective visualization takes into consideration the following:
 
 ### 3 & 4 - Five Visualizations - Assessment
 
--Picture 1 ("Climate change evidence: How do we know?", 2019)
+### Picture 1 ("Climate change evidence: How do we know?", 2019)
 
 This image is captivating. It shows a significant change of current levels of carbond dioxide compare to 400,000 years ago.
 
@@ -71,7 +71,8 @@ The graph is simple and without too much noise and details, it stills conveys th
 | Boring        |   0   |
 | Complex       |   0   |
 
--Picture 2 (n.d)
+
+### Picture 2 ("Effect of Climate Change on Property Claims & Forensic Investigations")
 
 The image is simple and to the informative point.
 
@@ -91,7 +92,7 @@ Image fails to evoke emontions or a sense of urgency. It is informative but unim
 | Complex       |   0   |
 
 
--Picture 3
+### Picture 3 ("3. Are human activities causing climate change?")
 
 adfadsfadsf
 
@@ -154,9 +155,9 @@ The visualization tries to convey the idea that human's behavior leads to factor
 
 - Climate change evidence: How do we know? (2019, March 26). Retrieved from https://climate.nasa.gov/evidence/
 
--
+- Effect of Climate Change on Property Claims & Forensic Investigations. (n.d.). Retrieved from https://kodsiengineering.com/effect-of-climate-change-on-property-claims-forensic-investigations/
 
--
+- Are human activities causing climate change? (n.d.). Retrieved from https://www.science.org.au/learning/general-audience/science-booklets-0/science-climate-change/3-are-human-activities-causing
 
 -
 
