@@ -14,8 +14,7 @@ The reader has to be captivated immediately and the message has to be unambigous
 
 It also has to be fitting, useful and its appearance has to have harmony (McCandless, 2018).
 
-Less is more. Visualizations that tell the whole story with non complex images are more effective (McCandless, D. (2018, July 17)
-
+Less is more. Visualizations that tell the whole story with non complex images are more effective ("Seven Elements of Good Data Visualization")
 A non effective visualization will be complex, filled with noise and non informative images (McCandless, 2018).
 
 
@@ -49,7 +48,7 @@ Therefore effective visualization takes into consideration the following:
 
 ### 3 & 4 - Five Visualizations - Assessment
 
--Picture 1
+-Picture 1 ("Climate change evidence: How do we know?", 2019)
 
 This image is captivating. It shows a significant change of current levels of carbond dioxide compare to 400,000 years ago.
 
@@ -144,16 +143,23 @@ The visualization tries to convey the idea that human's behavior leads to factor
 
 
 ### References
+
 - Pittenturf, Chris. 2018. “What Is Data Visualization and Why Is It Important?” https://data-visualization.cioreview.com/cxoinsight/what-is-data-visualization-and-why-is-it-important-nid-11806-cid-163.html
 
--(n.d.). Retrieved from http://www.climate-lab-book.ac.uk/2018/warming-stripes/
-
 - McCandless, D. (2018, July 17). What Makes A Good Data Visualization? Retrieved from https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
 
-- McCandless, D. (2018, July 17). What Makes A Good Data Visualization? Retrieved from https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
+- Seven Elements of Good Data Visualization. (n.d.). Retrieved from https://impact.extension.org/2017/04/7-elements-of-good-data-visualization/
+
+- Pictures Reference
+
+- Climate change evidence: How do we know? (2019, March 26). Retrieved from https://climate.nasa.gov/evidence/
+
+-
+
+-
+
+-
+
+-
 
 
-
-[Google example][Link1]
-
-[Link1]: https://www.google.com/
