@@ -189,6 +189,9 @@ As stated above, less is more and visualizations that use less complex images, c
 
 
 
+
+
+# Part 2
 # Warming Stripes Visualization - Marvin Olmedo
 
 
