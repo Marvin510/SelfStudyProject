@@ -137,21 +137,35 @@ It is painpul to look at and thus boring.
 | Boring        |   -1  |
 | Complex       |       |
 
--Picuture 5
+-Picuture 5 ("Climate change, what is it? Understanding the basic facts about global warming")
 
+This image argues agains climate change being caused by human activity. They provide a simple graph and make an assertion on the header.
+
+It informs the reader immediately about the author's position.
+
+Image is not captivating and does not evoke actions.
+
+
+![Picture5](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%205.gif)
 
 | Criteria      | Points|
 | ------------- | -----:|
 | Informative   |       |
-| Captivating   |       |      
+| Captivating   |   -1  |      
 | Simple        |       |    
 | Unimportant   |       |
-| Boring        |       |
+| Boring        |   -1  |
 | Complex       |       |
 
 ### Conclusion
 
+Data Visualization is an important tool to get messages across, evoke action or just to inform readers. 
 
+In this case, I developed a framework to assess images relating to human active causing climate change. My assessment was based on how informative captivating and simple the visualizations were. 
+
+I found that picture one, scored the highest amont all five visualizations. It was a simple graph that compared many years but elegantly highlighted  the recent growth of Carbon Monixide. It captivated my attention and evoke certain ideas quickly.
+
+As stated above, less is more and visualizations that use less complex images, colors and objects tend to be more efficient at getting messages across.
 
 ### References
 
@@ -171,6 +185,6 @@ It is painpul to look at and thus boring.
 
 - Causes of Climate Change. (2016, December 27). Retrieved April 13, 2019, from https://19january2017snapshot.epa.gov/climate-change-science/causes-climate-change_.html
 
--
+- Climate change, what is it? Understanding the basic facts about global warming. (n.d.). Retrieved April 14, 2019, from https://warmheartworldwide.org/climate-change/
 
 
