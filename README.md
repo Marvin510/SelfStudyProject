@@ -1,20 +1,16 @@
-# Self Study Project - Part 1 & 2  Marvin Miranda Olmedo
-
-1. Do a literature search on what is an effective visualization
-2. Select evaluation criteria and put them into a framework
-3. Find five visualizations
-4. Use your criteria to evaluate the visualizations
-5. Write a conclusion
+# Marvin Miranda Olmedo
+# Self Study Project - Part 1 & 2 
 
 ## 1 - What is effective Visualization
 
 Effective visualization is an image that will quickly convey an informative and evoking action message.
 
-The reader has to be captivated immediately and the message has to be unambigous (Pittenturf 2018).
+The reader has to be captivated instantly and the message has to be unambigous (Pittenturf 2018).
 
 It also has to be fitting, useful and its appearance has to have harmony (McCandless, 2018).
 
 Less is more. Visualizations that tell the whole story with non complex images are more effective ("Seven Elements of Good Data Visualization")
+
 A non effective visualization will be complex, filled with noise and non informative images (McCandless, 2018).
 
 
@@ -35,7 +31,7 @@ Therefore effective visualization takes into consideration the following:
 
 -On the other hand Non-effective visualizations will contain the following:
 
-- 1 Unimportant info: Visualization will display redundant or non related information
+- 1 Unimportant info: Displays redundant or non related information
 - 2 Boring: Does not captivate the reader or fails to evoke action
 - 3 Complex: Image that fails to convey information due over saturation
 
@@ -97,11 +93,11 @@ Image fails to evoke emontions or a sense of urgency. It is informative but unim
 
 ![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Picture%203.jpg)
 
-This image is informative, but does not have a proper label and it is very complex.
+This image is informative, but does not have a proper labels and it is very complex.
 
 The bars have two different colors yet there is no legend explaining its meaning.
 
-it is complex as it would require background knowledge to understand the effect of each variable on the image. 
+It is complex as it would require background knowledge to understand the effect of each variable on the image. 
 
 It is just plain data that would cause boredom on the average reader. 
 
@@ -161,7 +157,7 @@ Image is not captivating and does not evoke actions.
 
 Data Visualization is an important tool to get messages across, evoke action or just to inform readers. 
 
-In this case, I developed a framework to assess images relating to human active causing climate change. My assessment was based on how informative captivating and simple the visualizations were. 
+In this case, I developed a framework to assess images relating to human activity causing climate change. My assessment was based on how informative, captivating and simple the visualizations were. 
 
 I found that picture one, scored the highest amont all five visualizations. It was a simple graph that compared many years but elegantly highlighted  the recent growth of Carbon Monixide. It captivated my attention and evoke certain ideas quickly.
 
