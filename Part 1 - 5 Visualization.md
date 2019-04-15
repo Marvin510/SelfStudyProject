@@ -77,7 +77,7 @@ The graph is simple and without too much noise and details, it stills conveys th
 
 The image is simple.
 
-It conveys the message without redundant information. However, t fails to captivate or grab the reader's attention.
+It conveys the message without redundant information. However, it fails to captivate or grab the reader's attention.
 
 Image fails to evoke emontions or a sense of urgency. It is informative but unimportant visualization for someone trying to evoke change.
 
@@ -137,7 +137,7 @@ It is painpul to look at and thus boring.
 | Boring        |   -1  |
 | Complex       |       |
 
--Picuture 5 ("Climate change, what is it? Understanding the basic facts about global warming")
+### Picuture 5 ("Climate change, what is it? Understanding the basic facts about global warming")
 
 This image argues agains climate change being caused by human activity. They provide a simple graph and make an assertion on the header.
 
