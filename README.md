@@ -53,7 +53,7 @@ It is very easy to interpret.
 
 The comparison of today to years ago is mindblowing and informative.
 
-X and Y axis labels make it super easy to read.This fits the image and gives the story harmony.
+X and Y axis labels make it super easy to read. This fits the image and gives the story harmony.
 
 The graph is simple and without too much noise and details, it stills conveys the message that climate change is caused by human activity.
 
@@ -71,11 +71,13 @@ The graph is simple and without too much noise and details, it stills conveys th
 
 ### Picture 2 ("Effect of Climate Change on Property Claims & Forensic Investigations")
 
-The image is simple.
+The image is simple and conveys the message that human activity leads to climate change.
 
 It conveys the message without redundant information. However, it fails to captivate or grab the reader's attention.
 
-Image fails to evoke emontions or a sense of urgency. It is informative but unimportant visualization for someone trying to evoke change.
+It also fails to evoke emontions or a sense of urgency. 
+
+It is informative but unimportant visualization for someone trying to evoke change or persuade a reader.
 
 ![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%202.jpg)
 
@@ -93,11 +95,11 @@ Image fails to evoke emontions or a sense of urgency. It is informative but unim
 
 ![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Picture%203.jpg)
 
-This image is informative, but does not have a proper labels and it is very complex.
+This image is informative, but does not have proper labels on X and Y axis.
 
 The bars have two different colors yet there is no legend explaining its meaning.
 
-It is complex as it would require background knowledge to understand the effect of each variable on the image. 
+It is complex as it would require background knowledge to understand the effect of each variable on the image or how they would point to humans activity and climate change. 
 
 It is just plain data that would cause boredom on the average reader. 
 
@@ -115,12 +117,11 @@ The visualization tries to convey the idea that human's behavior leads to factor
 
 ### Picture 4 ("Causes of Climate Change", 2016)
 
-Picture has an ambigious message. 
-
-Y axis can be open to many interpretations thus not arousing action from the reader. The proportion change in temperature is not defined properly.
-
 Does not captivate attention right away. It requires more of the reader to understand colors and proportions.
 
+Y axis can be open to many interpretations. A change of 1 or .5 is meaningless to a reader that does not understand the impact of temperature.  The proportion change in temperature is not defined properly.
+
+After some effort, a reader will be able understand that human factors are casusing global changes and this is an informative message. However, it does not captivate or evoke action from the reader.
 
 ![Picture4](https://19january2017snapshot.epa.gov/sites/production/files/2016-07/models-observed-human-natural.png)
 
@@ -135,11 +136,15 @@ Does not captivate attention right away. It requires more of the reader to under
 
 ### Picuture 5 ("Climate change, what is it? Understanding the basic facts about global warming")
 
-This image argues against climate change being caused by human activity. They provide a simple graph and make an assertion on the header.
+This image argues against climate change being caused by human activity. A simple graph is provided and a clear assertion is made on the header.
 
 It informs the reader immediately about the author's position, but does not give striking support for the assertion.
 
 Image is not captivating and does not evoke actions.
+
+It also has some non related information such as time references of when Vikings arrived in Greenland or the Medieval warm period. An average reader would not be able to put a mental timeframe based on these references.
+
+This visualization makes a bold assertion but fails to put information in a simple and captivating format.
 
 
 ![Picture5](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%205.gif)
@@ -149,7 +154,7 @@ Image is not captivating and does not evoke actions.
 | Informative   | Needs to quickly convey an important message      |         0   |
 | Captivating   | Must catch the reader's attention      |         0   |      
 | Simple        | Visualization has to fit and can not contain too much noise      |         0   |  
-| Unimportant   | Displays redundant or non related information      |         0   |
+| Unimportant   | Displays redundant or non related information      |        -1   |
 | Boring        | Does not captivate the reader or fails to evoke action      |        -1   |
 | Complex       | Image that fails to convey information due over saturation      |       0   |
 
@@ -159,7 +164,7 @@ Data Visualization is an important tool to get messages across, evoke action or 
 
 In this case, I developed a framework to assess images relating to human activity causing climate change. My assessment was based on how informative, captivating and simple the visualizations were. 
 
-I found that picture one, scored the highest amont all five visualizations. It was a simple graph that compared many years but elegantly highlighted  the recent growth of Carbon Monixide. It captivated my attention and evoke certain ideas quickly.
+I found that picture one, scored the highest amont all five visualizations. It was a simple graph that compared many years but elegantly highlighted  the recent growth of Carbon Monixide. It captivated my attention and evoked certain ideas quickly.
 
 As stated above, less is more and visualizations that use less complex images, colors and objects tend to be more efficient at getting messages across.
 
