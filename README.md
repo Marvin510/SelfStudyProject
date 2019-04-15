@@ -157,7 +157,7 @@ Image is not captivating and does not evoke actions.
 | Boring        |   -1  |
 | Complex       |       |
 
-### 5 Conclusion
+## 5 - Conclusion
 
 Data Visualization is an important tool to get messages across, evoke action or just to inform readers. 
 
