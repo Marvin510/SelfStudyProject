@@ -47,7 +47,7 @@ Therefore effective visualization takes into consideration the following:
     
 
 
-## 3 & 4 - Five Visualizations - Assessment
+## 3 & 4 - Five Visualizations & Assessment
 
 ### Picture 1 ("Climate change evidence: How do we know?", 2019)
 
@@ -57,7 +57,7 @@ It is very easy to interpret.
 
 The comparison of today to years ago is mindblowing and informative.
 
-X and Y axis labels make it super easy to read.Ths fits the image and gives the story harmony.
+X and Y axis labels make it super easy to read.This fits the image and gives the story harmony.
 
 The graph is simple and without too much noise and details, it stills conveys the message that climate change is caused by human activity.
 
@@ -75,9 +75,9 @@ The graph is simple and without too much noise and details, it stills conveys th
 
 ### Picture 2 ("Effect of Climate Change on Property Claims & Forensic Investigations")
 
-The image is simple and to the informative point.
+The image is simple.
 
-It fails to captivate or grab the reader's attention.
+It conveys the message without redundant information. However, t fails to captivate or grab the reader's attention.
 
 Image fails to evoke emontions or a sense of urgency. It is informative but unimportant visualization for someone trying to evoke change.
 
@@ -88,14 +88,12 @@ Image fails to evoke emontions or a sense of urgency. It is informative but unim
 | Informative   |   1   |
 | Captivating   |   0   |      
 | Simple        |   1   |    
-| Unimportant   |   -1  |
+| Unimportant   |  -1  |
 | Boring        |   0   |
 | Complex       |   0   |
 
 
 ### Picture 3 ("3. Are human activities causing climate change?")
-
-adfadsfadsf
 
 ![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Picture%203.jpg)
 
