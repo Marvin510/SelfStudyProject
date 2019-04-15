@@ -1,4 +1,4 @@
-# Self Study Project - Marvin Miranda Olmedo
+# Self Study Project - Part 1 & 2  Marvin Miranda Olmedo
 
 1. Do a literature search on what is an effective visualization
 2. Select evaluation criteria and put them into a framework
