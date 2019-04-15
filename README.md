@@ -97,7 +97,9 @@ Image fails to evoke emontions or a sense of urgency. It is informative but unim
 
 ![Picture3](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Picture%203.jpg)
 
-This image is not informative, captivating or simple to understand. 
+This image is informative, but does not have a proper label and it is very complex.
+
+The bars have two different colors yet there is no legend explaining its meaning.
 
 it is complex as it would require background knowledge to understand the effect of each variable on the image. 
 
@@ -119,11 +121,9 @@ The visualization tries to convey the idea that human's behavior leads to factor
 
 Picture has an ambigious message. 
 
-Y axis can be open to many interpretations thus not arousing action from the reader
+Y axis can be open to many interpretations thus not arousing action from the reader. The proportion change in temperature is not defined properly.
 
 Does not captivate attention right away. It requires more of the reader to understand colors and proportions.
-
-It is painpul to look at and thus boring.
 
 
 ![Picture4](https://19january2017snapshot.epa.gov/sites/production/files/2016-07/models-observed-human-natural.png)
@@ -131,17 +131,17 @@ It is painpul to look at and thus boring.
 | Criteria      | Points|
 | ------------- | -----:|
 | Informative   |   1   |
-| Captivating   |       |      
-| Simple        |   -1  |    
-| Unimportant   |       |
-| Boring        |   -1  |
-| Complex       |       |
+| Captivating   |   0   |      
+| Simple        |   0   |    
+| Unimportant   |   0   |
+| Boring        |  -1   |
+| Complex       |   0   |
 
 ### Picuture 5 ("Climate change, what is it? Understanding the basic facts about global warming")
 
-This image argues agains climate change being caused by human activity. They provide a simple graph and make an assertion on the header.
+This image argues against climate change being caused by human activity. They provide a simple graph and make an assertion on the header.
 
-It informs the reader immediately about the author's position.
+It informs the reader immediately about the author's position, but does not give striking support for the assertion.
 
 Image is not captivating and does not evoke actions.
 
@@ -150,12 +150,12 @@ Image is not captivating and does not evoke actions.
 
 | Criteria      | Points|
 | ------------- | -----:|
-| Informative   |       |
+| Informative   |   0   |
 | Captivating   |   -1  |      
-| Simple        |       |    
-| Unimportant   |       |
+| Simple        |    0  |    
+| Unimportant   |    0  |
 | Boring        |   -1  |
-| Complex       |       |
+| Complex       |    0  |
 
 ## 5 - Conclusion
 
