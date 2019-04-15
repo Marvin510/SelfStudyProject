@@ -59,14 +59,14 @@ The graph is simple and without too much noise and details, it stills conveys th
 
 ![Picture1](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/pic%201.jpeg)
 
-| Criteria      | Points|
-| ------------- | -----:|
-| Informative   |   1   |
-| Captivating   |   1   |      
-| Simple        |   1   |    
-| Unimportant   |   0   |
-| Boring        |   0   |
-| Complex       |   0   |
+| Criteria      | Description | Points|  
+| ------------- | -----:|       -----:|
+| Informative   | Needs to quickly convey an important message      |         1   |
+| Captivating   | Must catch the reader's attention      |         1   |      
+| Simple        | Visualization has to fit and can not contain too much noise      |         1   |  
+| Unimportant   | Displays redundant or non related information      |         0   |
+| Boring        | Does not captivate the reader or fails to evoke action      |         0   |
+| Complex       | Image that fails to convey information due over saturation      |        0   |
 
 
 ### Picture 2 ("Effect of Climate Change on Property Claims & Forensic Investigations")
@@ -79,14 +79,14 @@ Image fails to evoke emontions or a sense of urgency. It is informative but unim
 
 ![Picture2](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%202.jpg)
 
-| Criteria      | Points|
-| ------------- | -----:|
-| Informative   |   1   |
-| Captivating   |   0   |      
-| Simple        |   1   |    
-| Unimportant   |  -1  |
-| Boring        |   0   |
-| Complex       |   0   |
+| Criteria      | Description |  Points|  
+| ------------- | -----:|       -----:|
+| Informative   | Needs to quickly convey an important message      |         1   |
+| Captivating   | Must catch the reader's attention      |         0   |      
+| Simple        | Visualization has to fit and can not contain too much noise      |         1   |  
+| Unimportant   | Displays redundant or non related information      |         -1   |
+| Boring        | Does not captivate the reader or fails to evoke action      |         0   |
+| Complex       | Image that fails to convey information due over saturation      |        0   |
 
 
 ### Picture 3 ("3. Are human activities causing climate change?")
@@ -103,14 +103,14 @@ It is just plain data that would cause boredom on the average reader.
 
 The visualization tries to convey the idea that human's behavior leads to factors impacting climage change. However, the visualization falls short of giving that impresion quickly and therefore is too complex and innefective.
 
-| Criteria      | Points|
-| ------------- | -----:|
-| Informative   |   0   |
-| Captivating   |   0   |      
-| Simple        |   0   |    
-| Unimportant   |  -1   |
-| Boring        |  -1   |
-| Complex       |  -1   |
+| Criteria      | Description |  Points|  
+| ------------- | -----:|       -----:|
+| Informative   | Needs to quickly convey an important message      |         0   |
+| Captivating   | Must catch the reader's attention      |         0   |      
+| Simple        | Visualization has to fit and can not contain too much noise      |         0   |  
+| Unimportant   | Displays redundant or non related information      |         -1   |
+| Boring        | Does not captivate the reader or fails to evoke action      |        -1   |
+| Complex       | Image that fails to convey information due over saturation      |       -1   |
 
 
 ### Picture 4 ("Causes of Climate Change", 2016)
@@ -124,14 +124,14 @@ Does not captivate attention right away. It requires more of the reader to under
 
 ![Picture4](https://19january2017snapshot.epa.gov/sites/production/files/2016-07/models-observed-human-natural.png)
 
-| Criteria      | Points|
-| ------------- | -----:|
-| Informative   |   1   |
-| Captivating   |   0   |      
-| Simple        |   0   |    
-| Unimportant   |   0   |
-| Boring        |  -1   |
-| Complex       |   0   |
+| Criteria      | Description |  Points|  
+| ------------- | -----:|       -----:|
+| Informative   | Needs to quickly convey an important message      |         1   |
+| Captivating   | Must catch the reader's attention      |         0   |      
+| Simple        | Visualization has to fit and can not contain too much noise      |         0   |  
+| Unimportant   | Displays redundant or non related information      |         0   |
+| Boring        | Does not captivate the reader or fails to evoke action      |        -1   |
+| Complex       | Image that fails to convey information due over saturation      |       0   |
 
 ### Picuture 5 ("Climate change, what is it? Understanding the basic facts about global warming")
 
@@ -144,14 +144,14 @@ Image is not captivating and does not evoke actions.
 
 ![Picture5](https://github.com/Marvin510/SelfStudyProject/blob/master/Images/Pic%205.gif)
 
-| Criteria      | Points|
-| ------------- | -----:|
-| Informative   |   0   |
-| Captivating   |   -1  |      
-| Simple        |    0  |    
-| Unimportant   |    0  |
-| Boring        |   -1  |
-| Complex       |    0  |
+| Criteria      | Description |  Points|  
+| ------------- | -----:|       -----:|
+| Informative   | Needs to quickly convey an important message      |         0   |
+| Captivating   | Must catch the reader's attention      |         0   |      
+| Simple        | Visualization has to fit and can not contain too much noise      |         0   |  
+| Unimportant   | Displays redundant or non related information      |         0   |
+| Boring        | Does not captivate the reader or fails to evoke action      |        -1   |
+| Complex       | Image that fails to convey information due over saturation      |       0   |
 
 ## 5 - Conclusion
 
